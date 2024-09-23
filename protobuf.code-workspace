@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+kali-linux/home/kali/protobuf"
+		}
+	],
+	"remoteAuthority": "wsl+kali-linux",
+	"settings": {}
+}
