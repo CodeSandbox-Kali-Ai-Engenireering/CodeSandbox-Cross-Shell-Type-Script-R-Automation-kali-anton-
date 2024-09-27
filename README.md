@@ -18,23 +18,7 @@
       src="https://img.shields.io/repology/repositories/starship?label=in%20repositories&style=flat-square"
       alt="Packaging status"/></a
   ><br />
-  <a href="https://discord.gg/starship"
-    ><img
-      src="https://img.shields.io/discord/567163873606500352?label=discord&logoColor=white&style=flat-square"
-      alt="Chat on Discord"
-  /></a>
-  <a href="https://twitter.com/StarshipPrompt"
-    ><img
-      src="https://img.shields.io/badge/twitter-@StarshipPrompt-1DA1F3?style=flat-square"
-      alt="Follow @StarshipPrompt on Twitter"
-  /></a>
-  <a href="https://stand-with-ukraine.pp.ua"
-    ><img
-      src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg"
-      alt="Stand With Ukraine"
-  /></a>
-</p>
-
+ 
 <p align="center">
   <a href="https://starship.rs">Website</a>
   ·
